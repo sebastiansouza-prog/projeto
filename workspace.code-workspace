@@ -1,0 +1,16 @@
+{
+  "folders": [],
+  "settings": {
+    "explorer.compactFolders": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula Theme",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.profiles.windows": {
+      "Git Bash": {
+        "source": "Git Bash"
+      }
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+  }
+}
